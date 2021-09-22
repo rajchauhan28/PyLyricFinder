@@ -1,7 +1,7 @@
 # Py Lyric Finder
 PyLyricFinder is solely made in **python3** with help of **Qt6 (PySide6)** and **[Genius.com](https://genius.com)(lyricsgenius) api**
 
-#You can always how me that you like this project by clicking on that star in the up right corner. Between UnWatch and fork.
+#You can always me that you like this project by clicking on that star in the up right corner. Between UnWatch and fork.
 
 ## How to use
 **Prerequisites -**
